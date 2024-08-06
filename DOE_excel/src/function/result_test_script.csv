@@ -1,0 +1,22 @@
+status,message,tc,form_id
+abnormal,Some aliens have not yet reported their departure from the old company.,TC01,['00001']
+normal,"Aliens have reported their departure from the old company, and the employer hires not more than 10 aliens for different types of work and positions.",TC02,['00002']
+normal,"Aliens have reported their departure from the old company, and the employer hires not more than 10 aliens for different types of work and positions.",TC03,['00003']
+normal,"Aliens have reported their departure from the old company, and the employer hires not more than 10 aliens for different types of work and positions.",TC04,['00004']
+abnormal,"Aliens have reported their departure from the old company. However, the employer hires more than 10 aliens for different types of work and positions.",TC05,['00005']
+abnormal,The application submission date and the expiration date of the work permit is less than or equal to 30 days.,TC06,['00006']
+abnormal,Aliens has not yet reported their departure from the old company but has already applied for the new one.,TC07,['00007']
+abnormal,Aliens has not yet reported their departure from the old company but has already applied for the new one.,TC08,['00008']
+normal,Aliens moved from A to B not exceeding the limit of people and have been relocated for less than a specified number of days.,TC09,"['00009', '00010']"
+normal,Aliens moved from A to B not exceeding the limit of people and have been relocated for less than a specified number of days.,TC10,"['00011', '00012']"
+normal,Aliens moved from A to B not exceeding the limit of people and have been relocated for less than a specified number of days.,TC11,"['00013', '00014']"
+abnormal,Aliens moved from A to B exceeding the limit of people and have been relocated for more than a specified number of days.,TC12,"['00015', '00016']"
+normal,Aliens moved from A to B not exceeding the limit of people and have been relocated for less than a specified number of days.,TC13,"['00017', '00018']"
+normal,Aliens moved from A to B not exceeding the limit of people and have been relocated for less than a specified number of days.,TC14,"['00019', '00020']"
+abnormal,Aliens has not yet reported their departure from the old company but has already applied for the new one.,TC15,['00021']
+normal,Aliens moved to B not exceeding the limit of people and have been relocated for less than a specified number of days.,TC16,"['00022', '00023', '00024']"
+normal,Aliens moved to B not exceeding the limit of people and have been relocated for less than a specified number of days.,TC17,"['00025', '00026']"
+normal,Aliens moved to B not exceeding the limit of people and have been relocated for less than a specified number of days.,TC18,"['00027', '00028']"
+abnormal,Aliens moved to B exceeding the limit of people and have been relocated for more than a specified number of days.,TC19,"['00029', '00030', '00031']"
+normal,Aliens moved to B not exceeding the limit of people and have been relocated for less than a specified number of days.,TC20,"['00032', '00033', '00034']"
+normal,Aliens moved to B not exceeding the limit of people and have been relocated for less than a specified number of days.,TC21,"['00035', '00036', '00037']"
